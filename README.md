@@ -1,4 +1,3 @@
-# Bike-sharing-and-demand-prediciton
 # Seoul Bike Sharing Demand Prediction
  
 # Abstract:
